@@ -87,20 +87,6 @@ My work included:
 - Working with Payload CMS for content management.
 - Integrating the application with the Neon PostgreSQL database.
 
-## Screenshots
-
-Screenshots of the website are available in the [`screenshots/`](screenshots/) directory.
-
-Recommended screenshots:
-
-- `homepage.png` — Hero section and overall homepage design.
-- `featured-projects.png` — Featured projects section.
-- `industry-sectors.png` — Industry experience section.
-- `mobile-view.png` — Responsive mobile layout.
-- `cms-dashboard.png` — Payload CMS interface, if suitable for public demonstration.
-
-Only genuine screenshots of the actual project should be included. Remove confidential information and private administrative data before publishing.
-
 ## Source Code
 
 The source code is maintained in a private repository. This public repository documents the project, its technology stack, key features, and my contribution without exposing private implementation details.
