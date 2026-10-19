@@ -1,7 +1,5 @@
 # 360 Engineering Group — Official Website
 
-![360 Engineering Group](360Group.png)
-
 A modern engineering company portfolio website showcasing the company's expertise, values, projects, and industry experience.
 
 **Live Website:** [360eng-group.com](https://360eng-group.com/)  
@@ -96,3 +94,5 @@ The source code is maintained in a private repository. This public repository do
 ## Links
 
 - **Live Website:** [https://360eng-group.com/](https://360eng-group.com/)
+
+  ![360 Engineering Group](360Group.png)
