@@ -1,5 +1,7 @@
 # 360 Engineering Group — Official Website
 
+![360 Engineering Group](360Group.png)
+
 A modern engineering company portfolio website showcasing the company's expertise, values, projects, and industry experience.
 
 **Live Website:** [360eng-group.com](https://360eng-group.com/)  
@@ -14,7 +16,7 @@ A modern engineering company portfolio website showcasing the company's expertis
 
 ## Overview
 
-The 360 Engineering Group website was developed to establish a professional online presence for a multidisciplinary engineering and contracting company serving the engineering and construction sectors.
+The 360 Engineering Group website was developed to establish a professional online presence for a multidisciplinary engineering and contracting company serving the engineering and construction sec[...]
 
 The website presents the company's identity, showcases selected projects, communicates its values, highlights its experience across different industries, and displays client testimonials.
 
@@ -89,7 +91,7 @@ My work included:
 
 ## Source Code
 
-The source code is maintained in a private repository. This public repository documents the project, its technology stack, key features, and my contribution without exposing private implementation details.
+The source code is maintained in a private repository. This public repository documents the project, its technology stack, key features, and my contribution without exposing private implementation[...]
 
 ## Links
 
